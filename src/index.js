@@ -19,5 +19,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </Provider>
   </>
 );
-// comment to activate deployment action
-
