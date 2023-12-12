@@ -83,7 +83,7 @@ const createRouter = isAuth => {
         ],
       },
     ],
-    { basename: '/water-tracker-project' }
+    { basename: '/node_front_fs_81_Ruslan-Ts' }
   );
   return router;
 };
